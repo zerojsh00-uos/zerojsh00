@@ -1,5 +1,5 @@
 # For command line git tutorial
-# Local repository modofication
+# First : GitHub modification
+# Second : Local repository modification
 
-print("Hello World")
-print("The test.py in the local repository has been modified like this")
+print("Conflict Resolved! ")
